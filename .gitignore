@@ -180,6 +180,7 @@ profiling/
 *.orig
 .vs/
 #.vscode/
+/vs
 .build/
 .testPublish/
 
@@ -210,3 +211,5 @@ src/Templates/**/content/**/[Oo]bj/
 # BenchmarkDotNet artifacts
 BenchmarkDotNet.Artifacts
 
+.vscode/settings.json
+.vscode/settings.json
